@@ -9,7 +9,9 @@ The primary goal is to create a reliable and efficient model capable of accurate
 # Technologies Used:
 
 Programming Language: Python
+
 Libraries: TensorFlow, OpenCV, NumPy, Matplotlib
+
 Development Tools: Jupyter Notebook
 
 # Dataset:
